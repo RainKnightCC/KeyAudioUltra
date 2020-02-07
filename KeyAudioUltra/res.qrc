@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/smg/resource">
+        <file>Open_file.png</file>
+        <file>Save.png</file>
+        <file>Exit_logout.png</file>
+    </qresource>
+</RCC>
